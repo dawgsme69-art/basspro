@@ -69,7 +69,7 @@ const AnnouncementBar = () => {
           <p className="text-[#ffffff] text-[9px] uppercase tracking-[0.15em] font-bold">
             Complete the steps before access expires
           </p>
-          <div className="h-[1px] w-4 bg-[#e2004b]"></div>
+          <div className="h-[1px] w-4 bg-[#172a21]"></div>
         </div>
       </div>
 

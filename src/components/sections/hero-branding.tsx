@@ -60,22 +60,22 @@ const HeroBranding = () => {
           {/* Main Headline */}
         <div className="flex flex-col items-center gap-0.5 px-2">
         <div className="relative">
-            <h1 className="text-[18px] md:text-[27px] font-extrabold leading-tight tracking-tight flex items-center justify-center gap-x-2 flex-wrap font-poppins">
+            <h1 className="text-[15px] md:text-[24px] font-extrabold leading-tight tracking-tight flex items-center justify-center gap-x-2 flex-wrap font-poppins">
             <span className="text-[#000000]">Unlock</span>
-            <span className="text-[#e2004b]">Bass Pro Rewards</span>
+            <span className="text-[#172a21]">Bass Pro Shops Rewards</span>
             <div className="flex items-center -ml-1">
-              <Gift className="w-4.5 h-4.5 text-[#e2004b] fill-transparent" />
+              <Gift className="w-4.5 h-4.5 text-[#172a21z] fill-transparent" />
             </div>
           </h1>
         </div>
         
         {/* Sub-headline */}
         <div className="flex items-center justify-center gap-2 w-full text-center">
-          <Sparkles className="w-3.5 h-3.5 text-[#e2004b] shrink-0 animate-sparkle" />
+          <Sparkles className="w-3.5 h-3.5 text-[#172a21] shrink-0 animate-sparkle" />
           <p className="text-[13px] sm:text-sm md:text-[15px] text-[#000000]/90 font-medium leading-relaxed whitespace-nowrap font-poppins">
-            Here&apos;s how to claim your <span className="text-[#e2004b] font-bold">$500 gift card</span>
+            Here&apos;s how to claim your <span className="text-[#172a21] font-bold">$500 gift card</span>
           </p>
-          <Sparkles className="w-3.5 h-3.5 text-[#e2004b] shrink-0 animate-sparkle" />
+          <Sparkles className="w-3.5 h-3.5 text-[#172a21] shrink-0 animate-sparkle" />
         </div>
       </div>
     </div>
